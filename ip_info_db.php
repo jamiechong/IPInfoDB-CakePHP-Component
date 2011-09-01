@@ -1,6 +1,6 @@
 <?php
 /*
- *	IpInfoDbComponent
+ *  IpInfoDbComponent
  *  
  *  A CakePHP component for doing IP to Location lookups using the free
  *  IP Info DB service (http://ipinfodb.com). Use this code freely, but
@@ -8,8 +8,6 @@
  *  I haven't done much testing and quickly wrote this up so use at your
  *  own risk! 
  * 
- *  author: Jamie Chong <jamie[eh-tee]jamiechong[dee-oh-tee]ca>
- *	date:   2011-08-31
  */
 
 class IpInfoDbComponent extends Object
